@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://www.inflearn.com/
+[DOC_ch-plugin-script-iframe]
+BASEURL=https://www.inflearn.com/
+ORIGURL=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://www.inflearn.com/
+IDList=
+IconFile=https://www.inflearn.com/icon-512x512.png
+IconIndex=1
