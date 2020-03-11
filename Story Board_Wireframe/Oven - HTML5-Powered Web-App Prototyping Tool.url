@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=https://ovenapp.io/
+[DOC#66]
+BASEURL=https://www.facebook.com/plugins/like.php?action=like&app_id&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df17c0b1d179e79f%26domain%3Dovenapp.io%26origin%3Dhttps%253A%252F%252Fovenapp.io%252Ff2e5fdad26dff94%26relation%3Dparent.parent&container_width=1920&href=https%3A%2F%2Fwww.facebook.com%2Fovenapp&layout=button_count&locale=ko_KR&sdk=joey&share=true&width=350&_rdc=1&_rdr
+ORIGURL=https://web.facebook.com/v2.0/plugins/like.php?action=like&app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df17c0b1d179e79f%26domain%3Dovenapp.io%26origin%3Dhttps%253A%252F%252Fovenapp.io%252Ff2e5fdad26dff94%26relation%3Dparent.parent&container_width=1920&href=https%3A%2F%2Fwww.facebook.com%2Fovenapp&layout=button_count&locale=ko_KR&sdk=joey&share=true&width=350
+[DOC#317]
+BASEURL=https://www.facebook.com/plugins/like.php?action=like&app_id&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df269a29f5740904%26domain%3Dovenapp.io%26origin%3Dhttps%253A%252F%252Fovenapp.io%252Ff2e5fdad26dff94%26relation%3Dparent.parent&container_width=1880&href=https%3A%2F%2Fwww.facebook.com%2Fovenapp&layout=standard&locale=ko_KR&sdk=joey&share=true&show_faces=true&width=350&_rdc=1&_rdr
+ORIGURL=https://web.facebook.com/v2.0/plugins/like.php?action=like&app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df269a29f5740904%26domain%3Dovenapp.io%26origin%3Dhttps%253A%252F%252Fovenapp.io%252Ff2e5fdad26dff94%26relation%3Dparent.parent&container_width=1880&href=https%3A%2F%2Fwww.facebook.com%2Fovenapp&layout=standard&locale=ko_KR&sdk=joey&share=true&show_faces=true&width=350
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://ovenapp.io/
+IDList=
+IconFile=https://ovenapp.io/favicon.ico
+IconIndex=1
