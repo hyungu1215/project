@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=https://www.godo.co.kr/shopby/main.gd
+[DOC_ne_tgmiframe_0]
+BASEURL=https://www.godo.co.kr/shopby/main.gd
+ORIGURL=about:blank
+[DOC_ne_tgmiframe_0_ne_dmp_target_frame]
+BASEURL=https://adlc-exchange.toast.com/log
+ORIGURL=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://www.godo.co.kr/shopby/main.gd
+IDList=
+IconFile=https://www.godo.co.kr/favicon.ico
+IconIndex=1

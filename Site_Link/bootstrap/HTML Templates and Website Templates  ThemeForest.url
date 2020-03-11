@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://themeforest.net/category/site-templates
+[DOC#775]
+BASEURL=https://consentcdn.cookiebot.com/sdk/bc.min.html
+ORIGURL=https://consentcdn.cookiebot.com/sdk/bc.min.html
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://themeforest.net/category/site-templates
+IDList=
+IconFile=https://assets.shopfront.envato-static.com/icons/themeforest.net/favicon.ico
+IconIndex=1
